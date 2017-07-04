@@ -1,3 +1,0 @@
-#test to ignore file though gitignore
-pass:12345
-user:admin
